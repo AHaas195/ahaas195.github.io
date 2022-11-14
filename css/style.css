@@ -3,10 +3,23 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
 }
 
+a: hover {
+  background-color: rgba(255, 0, 0, 0.5);
+}
+
 h2, h3 {
   color:rgb(103,105,159)
 }
 
-a: hover {
-  background-color: rgba(255, 0, 0, 0.5);
+p, li {
+  line-height: 1;
+}
+
+ul > li {
+  list-style-type: circle;
+}
+
+abbr[title] {
+  text-decoration-color: rgb(69,105,159);
+  text-decoration-style: wavy;
 }
