@@ -1,4 +1,4 @@
-
+@import 
 body {
   font-family: "Helvetica", "Arial", sans-serif;
   background-color: rgb(150,147,158);
@@ -9,11 +9,11 @@ a: hover {
 }
 
 h1 {
-  color: rgb(50,40, 96);
+  color: rgb(255,255,255);
 }
 
 h2, h3 {
-  color:rgb(103,105,159)
+  color:rgb(106,90,205)
 }
 
 p, li {
@@ -25,14 +25,14 @@ ul > li {
 }
 
 nav a {
-  color: rgb(207,181,59);
+  color: rgb(255,240,235);
 }
 
 section {
   margin-bottom: 16px;
   padding: 16px;
   background-color: rgb(239,239,238);
-  border: 3px solid rgb(61,93,154);
+  border: 3px solid rgb(103,105,159);
 }
 
 footer a {
