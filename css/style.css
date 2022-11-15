@@ -42,4 +42,13 @@ footer a {
 #map {
   background-color: rgb(206,206,208);
   border: 3px solid rgb(69,105,159);
+  max-width: 600px;
+}
+
+#introduction {
+  max-width: 960px;
+}
+
+#geography {
+  max-width: 430px;
 }
