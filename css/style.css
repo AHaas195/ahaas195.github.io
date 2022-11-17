@@ -102,9 +102,6 @@ footer a {
   max-width: 960px;
 }
 
-#land {
-    background-color: rgb(205, 210, 203);
-}
 
 #eth {
   position: relative;
@@ -148,4 +145,26 @@ footer a {
 .bottom {
   position: relative;
   top: 15px;
+}
+
+#use {
+  position: relative;
+  left: 200px;
+}
+
+#lub {
+  position: relative;
+  left: 10px;
+}
+
+.x {
+  position: relative;
+  right:40px;
+  top: 10px;
+}
+
+.y {
+  position: relative;
+  right:-20px;
+  top: 10px;
 }
