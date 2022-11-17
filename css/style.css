@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Quicksand:wght@400;600&display=swap');
 
 body {
   font-family: "Helvetica", "Arial", sans-serif;
@@ -26,6 +27,7 @@ footer {
 
 header {
   margin-top: 20px;
+  font-family: "Quicksand", sans-serif;
 }
 
 a: hover {
@@ -38,6 +40,7 @@ h1 {
 
 h2, h3 {
   color:rgb(78,97,114);
+  font-family: "Quicksand", sans-serif;
 }
 
 p, li {
