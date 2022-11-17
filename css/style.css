@@ -50,6 +50,7 @@ ul > li {
 
 nav a {
   color: #000000;
+  margin: 3px;
 }
 
 nav {
@@ -58,6 +59,7 @@ nav {
   max-height: 150px;
   border: 3px solid rgb(78,97,114);
 }
+
 section {
   margin-bottom: 16px;
   padding: 20px;
@@ -83,4 +85,12 @@ footer a {
 
 #geography {
   max-width: 430px;
+}
+
+#land {
+    background-color: rgb(205, 210, 203);
+}
+
+#eth {
+  background-color: rgb(205, 210, 203);
 }
