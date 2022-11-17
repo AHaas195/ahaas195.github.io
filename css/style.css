@@ -47,6 +47,8 @@ h2 {
 h3 {
   color:rgb(78,97,114);
   font-family: "Quicksand", sans-serif;
+  position: relative;
+  top: 10px;
 }
 
 p, li {
@@ -132,6 +134,18 @@ footer a {
   font-size: 16px;
 }
 
-table {
+#demlist {
+  position: relative;
+  left: 150px;
+}
 
+#demographic-profile {
+  position: relative;
+  top: 10px;
+  margin-bottom: 30px;
+}
+
+.bottom {
+  position: relative;
+  top: 15px;
 }
