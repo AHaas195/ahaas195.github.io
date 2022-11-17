@@ -109,19 +109,19 @@ footer a {
   left: 200px;
 }
 
-#group {
+.group {
   position: relative;
   right:50px;
   top: 10px;
 }
 
-#percent {
+.percent {
   position: relative;
   left:50px;
   top: 10px;
 }
 
-#pofp {
+.pofp {
     position: relative;
     top: 10px;
 }
