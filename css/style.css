@@ -184,9 +184,10 @@ footer a {
   margin-bottom: 20px;
 }
 
-#nat {
+.nat {
   position: relative;
-  left: 165px;
+  left: 230px;
+  top: 10px;
 }
 
 .caption {
