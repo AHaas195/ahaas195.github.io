@@ -183,3 +183,14 @@ footer a {
 #land {
   margin-bottom: 20px;
 }
+
+#nat {
+  position: relative;
+  left: 165px;
+}
+
+.caption {
+  font-size: 12px;
+  position: relative;
+  top: 10px;
+}
