@@ -196,3 +196,11 @@ footer a {
   top: 7px;
   left: 10px;
 }
+
+.first {
+  font-weight: bold;
+}
+.first::first-letter {
+  font-size: 25px;
+  font-weight:bolder;
+}
