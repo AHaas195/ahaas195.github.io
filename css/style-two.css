@@ -2,3 +2,19 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
   background-color: #FFFFFF;
 }
+
+body {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 20px;
+
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+header, footer {
+  grid-column: 1 / -1;
+  padding-left: 25px;
+  background-color: #FFFFFF;
+  border: 3px solid rgb(78,97,114);
+}
