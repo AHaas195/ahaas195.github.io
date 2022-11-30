@@ -19,6 +19,10 @@ header, footer {
   border: 3px solid rgb(78,97,114);
 }
 
+a {
+  padding: 2px 1px 0;
+}
+
 a:hover {
   background-color: rgba(255, 0, 0, 0.5);
 }
