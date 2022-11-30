@@ -18,3 +18,11 @@ header, footer {
   background-color: #FFFFFF;
   border: 3px solid rgb(78,97,114);
 }
+
+a:hover {
+  background-color: rgba(255, 0, 0, 0.5);
+}
+
+a:link {
+  
+}
