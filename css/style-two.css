@@ -19,6 +19,14 @@ header, footer {
   border: 3px solid rgb(67,75,86);
 }
 
+header {
+  margin-top: 20px;
+}
+
+footer {
+  margin-bottom: 20px;
+}
+
 a {
   padding: 2px 1px 0;
 }
