@@ -100,3 +100,8 @@ nav {
 img {
   border: 6px solid rgb(164,163,161);
 }
+
+#profile {
+  position: relative;
+  left: 100px;
+}
