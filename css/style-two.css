@@ -44,3 +44,14 @@ a:active {
   background: #265301;
   color: rgb(255, 0, 0);
 }
+
+h1 {
+  color: rgb(78,97,114);
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+h2 {
+  color: rgb(78,97,114);
+  font-size: 20px;
+}
