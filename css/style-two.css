@@ -93,3 +93,7 @@ nav {
   max-height: 100px;
   border: 3px solid rgb(67,75,86);
 }
+
+img {
+  border: 6px solid rgb(164,163,161);
+}
