@@ -1,6 +1,6 @@
 body {
   font-family: "Helvetica", "Arial", sans-serif;
-  background-color: rgb(203,145,144);
+  background-color: rgb(157,162,174);
 }
 
 body {
@@ -16,7 +16,7 @@ header, footer {
   grid-column: 1 / -1;
   padding-left: 25px;
   background-color: #FFFFFF;
-  border: 3px solid rgb(87,76,78);
+  border: 3px solid rgb(41,50,66);
 }
 
 header {
@@ -68,7 +68,7 @@ section {
   margin-bottom: 16px;
   padding: 20px;
   background-color: #FFFFFF;
-  border: 3px solid rgb(238,230,216);
+  border: 3px solid rgb(45,45,43);
 }
 
 .intro {
