@@ -16,7 +16,7 @@ header, footer {
   grid-column: 1 / -1;
   padding-left: 25px;
   background-color: #FFFFFF;
-  border: 3px solid rgb(78,97,114);
+  border: 3px solid rgb(67,75,86);
 }
 
 a {
@@ -60,7 +60,7 @@ section {
   margin-bottom: 16px;
   padding: 20px;
   background-color: #FFFFFF;
-  border: 3px solid rgb(78,97,114);
+  border: 3px solid rgb(67,75,86);
 }
 
 .intro {
@@ -83,5 +83,5 @@ nav {
   background-color: #FFFFFF;
   max-width: 150px;
   max-height: 100px;
-  border: 3px solid rgb(255, 0, 0);
+  border: 3px solid rgb(67,75,86);
 }
