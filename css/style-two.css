@@ -81,7 +81,9 @@ section {
   right: 90px;
 }
 
-
+.caption {
+  font-size: 10px;
+}
 nav a {
   color: #000000;
   margin: 3px;
