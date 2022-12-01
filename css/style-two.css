@@ -32,25 +32,25 @@ a {
 }
 
 a:hover {
-  background-color: rgba(255, 0, 0, 0.5);
+  background-color: rgb(179,161,136);
 }
 
 a:link {
-  color: rgb(255, 0, 0);
+  color: rgb(179,161,136);
 }
 
 a:visited {
-  color: rgb(255, 0, 0);
+  color: rgb(41,50,66);
 }
 
 a:focus {
   border-bottom: 1px solid;
-  background: rgb(255, 0, 0);
+  background: #FFFFFF;
 }
 
 a:active {
-  background: #265301;
-  color: rgb(255, 0, 0);
+  background: #FFFFFF;
+  color: rgb(41,50,66);
 }
 
 h1 {
