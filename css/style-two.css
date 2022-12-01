@@ -72,3 +72,20 @@ section {
   position: relative;
   right: 90px;
 }
+
+.source {
+  color: #000000;
+  margin: 3px;
+}
+
+nav a {
+  color: #000000;
+  margin: 3px;
+}
+
+nav {
+  background-color: #FFFFFF;
+  max-width: 150px;
+  max-height: 100px;
+  border: 3px solid rgb(255, 0, 0);
+}
