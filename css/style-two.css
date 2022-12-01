@@ -55,3 +55,15 @@ h2 {
   color: rgb(78,97,114);
   font-size: 20px;
 }
+
+section {
+  margin-bottom: 16px;
+  padding: 20px;
+  background-color: #FFFFFF;
+  border: 3px solid rgb(78,97,114);
+}
+
+.intro {
+  position: relative;
+  right:90px;
+}
