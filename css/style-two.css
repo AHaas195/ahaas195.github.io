@@ -90,6 +90,8 @@ section {
   font-family: "Oxygen", "Helvetica", "Arial", sans-serif;
   font-weight: 300;
   line-height: 2;
+  position: relative;
+  left: 75px;
 }
 
 .intro {
@@ -129,7 +131,7 @@ img {
 }
 
 #wildlife {
-  max-height: 320px;
+  max-height: 330px;
 }
 
 #leopard {
