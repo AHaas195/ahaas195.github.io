@@ -123,7 +123,7 @@ img {
 }
 
 #wildlife {
-  max-height: 310px;
+  max-height: 320px;
 }
 
 #leopard {
@@ -139,4 +139,12 @@ img {
 
 .self {
   max-width: 600px;
+  position: relative;
+  left: 50px;
+}
+
+.hysteria {
+  max-width: 600px;
+  position: relative;
+  left: 50px;
 }
