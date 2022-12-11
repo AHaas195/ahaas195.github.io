@@ -57,8 +57,8 @@ a:active {
 
 h1 {
   color: rgb(41,50,66);
-  font-family: "Oxygen", "Helvetica", "Arial", sans-serif;
-  font-weight: 700;
+  font-family: "Handlee", "Helvetica", "Arial", sans-serif;
+  font-style: bold;
   margin-top: 30px;
   font-size: 30px;
 }
@@ -166,8 +166,7 @@ img {
 }
 
 #why {
-  font-family: "Handlee", "Helvetica", "Arial", sans-serif;
-  font-size: 20px;
+  font-family: "Oxygen", "Helvetica", "Arial", sans-serif;
   line-height: 2;
   position: relative;
   left: 100px;
