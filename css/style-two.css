@@ -72,6 +72,11 @@ h3 {
   color: rgb(41,50,66);
 }
 
+p {
+  font-family: "Oxygen", "Helvetica", "Arial", sans-serif;
+  font-weight: 300;
+}
+
 section {
   margin-bottom: 16px;
   padding: 20px;
@@ -119,10 +124,15 @@ img {
   max-height: 310px;
 }
 
-#leopard{
+#leopard {
   position: relative;
   left: 325px;
   bottom: 273px;
+}
+
+#lion {
+  position: relative;
+  right: 20px;
 }
 
 #favorite {
