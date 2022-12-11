@@ -190,3 +190,9 @@ img {
 #contact {
   max-height: 100px;
 }
+
+#world {
+  max-width: 410px;
+  position: relative;
+  left: 10px;
+}
