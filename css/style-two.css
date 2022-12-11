@@ -136,3 +136,7 @@ img {
   position: relative;
   right: 20px;
 }
+
+.self {
+  max-width: 600px;
+}
