@@ -89,7 +89,12 @@ section {
 .famous {
   font-family: "Handlee", "Helvetica", "Arial", sans-serif;
   font-weight: 400;
+  font-size: 18px;
+  position: relative;
+  left: 150px;
+  top: 10px;
 }
+
 .intro {
   position: relative;
   right:90px;
@@ -151,4 +156,9 @@ img {
   max-width: 600px;
   position: relative;
   left: 50px;
+}
+
+#first-source {
+  position: relative;
+  top: 10px;
 }
