@@ -89,11 +89,7 @@ section {
 .famous {
   font-family: "Oxygen", "Helvetica", "Arial", sans-serif;
   font-weight: 300;
-  font-size: 18px;
-  position: relative;
-  left: 150px;
-  top: 10px;
-  line-height: 1.5;
+  line-height: 2;
 }
 
 .intro {
