@@ -58,7 +58,7 @@ a:active {
 h1 {
   color: rgb(41,50,66);
   font-family: "Handlee", "Helvetica", "Arial", sans-serif;
-  font-style: bold;
+  font-style: normal;
   margin-top: 30px;
   font-size: 30px;
 }
