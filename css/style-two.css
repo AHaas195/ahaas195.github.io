@@ -65,6 +65,8 @@ h1 {
 
 h2 {
   color: rgb(41,50,66);
+  font-family: "Oxygen", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
   font-size: 20px;
 }
 
