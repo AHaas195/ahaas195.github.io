@@ -1,0 +1,20 @@
+@media (max-width: 414px) {
+
+  #linkedin {
+    position: relative;
+    left: 200px;
+    bottom: 37px;
+  }
+
+  #fb {
+    position: relative;
+    left: 400px;
+    bottom: 74px;
+  }
+
+  #contact {
+    max-height: 100px;
+    max-width: 414px;
+  }
+
+}
