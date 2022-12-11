@@ -178,3 +178,9 @@ img {
   position: relative;
   top: 10px;
 }
+
+#linkedin {
+  position: relative;
+  left: 200px;
+  bottom: 37px;
+}
