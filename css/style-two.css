@@ -108,4 +108,11 @@ img {
 
 #wildlife {
   max-width: 960px;
+  max-height: 310px;
+}
+
+#leopard{
+  position: relative;
+  left: 325px;
+  bottom: 273px;
 }
